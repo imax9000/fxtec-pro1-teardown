@@ -28,37 +28,37 @@ Power off the phone and remove any removabale parts:
 
 Slide out the keyboard, turn the phone over, remove these 5 black stickers to revel screw heads:
 
-![](imgs/1.jpg)
+[![](imgs/1.jpg)](imgs/1.jpg)
 
 I used a tip of hobby knife to peel the edge a bit, and then followed up with tweezers to completely remove the sticker:
 
-![](imgs/2.jpg)
+[![](imgs/2.jpg)](imgs/2.jpg)
 
 After you've set all 5 stickers aside, simply remove the screws.
 
 Now the screen panel is held in place only by a few clips, marked here:
 
-![](imgs/3.jpg)
+[![](imgs/3.jpg)](imgs/3.jpg)
 
 Gap between screen panel and backplate is quite thin, so to safely unclip it, take a piece of aluminum can, insert it like in the picture below and slide it around the corner:
 
-![](imgs/4.jpg)
+[![](imgs/4.jpg)](imgs/4.jpg)
 
 That should free the clip on that side. From there, insert a more handy prying tool (which you now have space for) and work your way along the long edge. Be gentle, these clips don't require much force.
 
 Once you get all 4 clips undone, the screen fill come off and you'll be able to reach screen and camera cables:
 
-![](imgs/5.jpg)
+[![](imgs/5.jpg)](imgs/5.jpg)
 
 Carefully disconnect them to completely separate screen panel from the rest of the phone:
 
-![](imgs/6.jpg)
+[![](imgs/6.jpg)](imgs/6.jpg)
 
 ## Step 2: screen backplate
 
 It attaches to the hinge parts with 3 screws that double as hinge axles:
 
-![](imgs/7.jpg)
+[![](imgs/7.jpg)](imgs/7.jpg)
 
 This is the part where you need a screwdriver with a long tip. If you try to reach the screws at an angle, you'll most likely just damage them. So you need to basically put screwdriver in the channel next to a screw and operate it from there.
 
@@ -66,13 +66,13 @@ After you unscrew them, you'll need tweezers to pull them out. The one marked in
 
 Once you remove all 3 screws, you can just lift the plate up to remove it.
 
-![](imgs/8.jpg)
+[![](imgs/8.jpg)](imgs/8.jpg)
 
 ## Step 3: phone body
 
 From here, things get a bit complicated. Main phone body is held in the back casing by 5 screws:
 
-![](imgs/9.jpg)
+[![](imgs/9.jpg)](imgs/9.jpg)
 
 You can safely ignore the hinge, it's only attached to the main body, not the back casing.
 
@@ -86,7 +86,7 @@ TODO: picture with locations of all clips.
 
 I managed to get in, but it left minor cosmetic damage. Here's what I did:
 
-![](imgs/10.jpg)
+[![](imgs/10.jpg)](imgs/10.jpg)
 
 That's about the only spot where I managed to insert shims deep enough. Once you get 2 pieces of aluminum inserted there - put a prying tool between them and use it as a lever to push the phone body up. It requires quite a bit of force, so be extremely careful and increase the pressure very gradually.
 
@@ -94,10 +94,10 @@ In retrospect, I should've used a prying tool with a wider blade: I was using a 
 
 Once it's fully unclipped, disconnect the fingerprint scanner while holding both parts as close together as possible. On the picture below I'm pulling them apart way too far, you can access the connector with a much more narrow opening. In the red circle is the weak spot of the cable: pull it too far and you'll start tearing apart the cable.
 
-![](imgs/11.jpg)
+[![](imgs/11.jpg)](imgs/11.jpg)
 
 After you disconnect the fingerprint scanner, you can simply take out the phone body:
 
-![](imgs/12.jpg)
+[![](imgs/12.jpg)](imgs/12.jpg)
 
 This is as far as I'm willing to go for now. From the looks of it, main board assembly is held together only by screws and some adhesive for the battery, so taking components out shouldn't be a problem.
