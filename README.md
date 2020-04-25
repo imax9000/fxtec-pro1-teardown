@@ -26,7 +26,7 @@ Power off the phone and remove any removabale parts:
 
 ## Step 1: screen
 
-Slide out the keyboard, turn the phone over, remove these 5 black stickers to revel screw heads:
+Slide out the keyboard, turn the phone over, remove these 5 black stickers to reveal screw heads:
 
 [![](imgs/1.jpg)](imgs/1.jpg)
 
@@ -78,7 +78,7 @@ You can safely ignore the hinge, it's only attached to the main body, not the ba
 
 **WARNING**: double-check that you removed the SIM tray. If you didn't, proceeding will cause catastrophic damage to your phone.
 
-**WARNING**: do not pull the phone body out as soon as you release the clips - fingerprint sensor's cable is way too short and a weak spot where it will get torn if you pull it too far.
+**WARNING**: do not pull the phone body out as soon as you release the clips - fingerprint sensor's cable is way too short and has a weak spot where it will get torn if you pull it too far.
 
 Now comes the part where I don't have a good way in. Phone body is still held inside the casing tightly by a few clips.
 
