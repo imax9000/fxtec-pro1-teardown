@@ -101,3 +101,11 @@ After you disconnect the fingerprint scanner, you can simply take out the phone 
 [![](imgs/12.jpg)](imgs/12.jpg)
 
 This is as far as I'm willing to go for now. From the looks of it, main board assembly is held together only by screws and some adhesive for the battery, so taking components out shouldn't be a problem.
+
+## Reassembly
+
+Reassembling the phone is mostly straightforward, with a few caveats:
+
+ * Take care when reattaching fingerprint scanner cable, you can still damage it even while putting thing together
+ * When inserting phone body into back casing, insert the edge with buttons first, then push the rest in. Starting from any other edge is a sure way to shear those buttons off. (Guess how I know this... Good that we now have websites where anyone can order electronic components, even as intricate as tiny surface-mounted buttons)
+ 
